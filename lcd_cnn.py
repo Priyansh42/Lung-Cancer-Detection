@@ -73,10 +73,10 @@ class LCD_CNN:
         ##Read labels csv 
         self.labels = pd.read_csv('stage1_labels.csv', index_col=0)
 
-        ##Setting x*y size to 50
+        ##Setting x*y size to 10
         self.size = 10
 
-        ## Setting z-dimension (number of slices to 20)
+        ## Setting z-dimension (number of slices to 5)
         self.NoSlices = 5
 
         messagebox.showinfo("Import Data" , "Data Imported Successfully!") 
@@ -126,7 +126,7 @@ class LCD_CNN:
         imageData = []
         #Check if Data Labels is available in CSV or not
         for num, patient in enumerate(self.lungPatients):
-            if num % 100 == 0:
+            if num % 50 == 0:
                 print('Saved -', num)
             try:
                 img_data, label = dataProcessing(patient, self.labels, size=self.size, noslices=self.NoSlices)
