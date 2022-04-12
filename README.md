@@ -4,6 +4,14 @@ This application aims to early detection of lung cancer to give patients the bes
 
 ![Lung-Cancer-Detection](https://user-images.githubusercontent.com/68781375/162584408-450580c0-3354-470b-a69c-180a19802fd4.jpg)
 
+## Dataset
+
+We have taken 50 patients as a sample dataset for training and validation. Link is available below: 
+
+Sample Dataset Images: https://drive.google.com/drive/folders/1PDCUjqEU79dCTAwPBo_57r98smGrqBXc?classId=0ee6c847-3ca4-4192-b443-6447d86cfc0a&assignmentId=412a8d4c-8b59-4916-8f99-1e2db83878ec&submissionId=85549b87-4021-0522-e776-6e20ad92f06c
+
+Sample Dataset CSV for above images: [CSV File](https://github.com/Priyansh42/Lung-Cancer-Detection/blob/main/stage1_labels.csv)
+
 ## Output Screenshots
 
 ![OutputScreenshot-1](https://user-images.githubusercontent.com/68781375/162584315-359fba81-6827-437f-ab54-b8dee534f1d8.JPG)
