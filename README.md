@@ -4,6 +4,10 @@ This application aims to early detection of lung cancer to give patients the bes
 
 ![Lung-Cancer-Detection](https://user-images.githubusercontent.com/68781375/162584408-450580c0-3354-470b-a69c-180a19802fd4.jpg)
 
+## Other Contributors
+
+[harshil311](https://github.com/harshil311) | [ishanshah1802](https://github.com/ishanshah1802) | [Manan2606](https://github.com/Manan2606)
+
 ## Dataset
 
 We have taken 50 patients as a sample dataset for training and validation. Link is available below: 
