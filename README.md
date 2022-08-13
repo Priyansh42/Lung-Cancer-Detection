@@ -4,9 +4,9 @@ This application aims to early detection of lung cancer to give patients the bes
 
 ![Lung-Cancer-Detection](https://user-images.githubusercontent.com/68781375/162584408-450580c0-3354-470b-a69c-180a19802fd4.jpg)
 
-## Other Contributors
+## Contributors
 
-[Harshil Rana](https://github.com/harshil311) | [Ishan Shah](https://github.com/ishanshah1802) | [Manan Shah](https://github.com/Manan2606)
+[Priyansh Shah](https://github.com/Priyansh42) ● [Harshil Rana](https://github.com/harshil311) ● [Ishan Shah](https://github.com/ishanshah1802) ● [Manan Shah](https://github.com/Manan2606)
 
 ## Dataset
 
