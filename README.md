@@ -23,3 +23,7 @@ Sample Dataset CSV for above images: [CSV File](https://github.com/Priyansh42/Lu
 ## Demo Video
 
 https://user-images.githubusercontent.com/68781375/162584302-e0a58cfe-9a1d-45a1-816e-6bfadf45821a.mp4
+
+## Similar Projects
+
+Stroke Blood Clot Classification: https://github.com/Priyansh42/Stroke-Blood-Clot-Classification
