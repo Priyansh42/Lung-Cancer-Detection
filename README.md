@@ -12,7 +12,7 @@ This application aims to early detection of lung cancer to give patients the bes
 
 We have taken 50 patients as a sample dataset for training and validation. Link is available below: 
 
-Sample Dataset Images: https://drive.google.com/drive/folders/1PDCUjqEU79dCTAwPBo_57r98smGrqBXc?classId=0ee6c847-3ca4-4192-b443-6447d86cfc0a&assignmentId=412a8d4c-8b59-4916-8f99-1e2db83878ec&submissionId=85549b87-4021-0522-e776-6e20ad92f06c
+Sample Dataset Images: https://qnm8.sharepoint.com/:f:/g/Ep5GUq573mVHnE3PJavB738Bevue4plkiXyNkYfxHI-a-A?e=UVMWne
 
 Sample Dataset CSV for above images: [CSV File](https://github.com/Priyansh42/Lung-Cancer-Detection/blob/main/stage1_labels.csv)
 
