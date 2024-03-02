@@ -9,8 +9,8 @@ This application aims to early detection of lung cancer to give patients the bes
 [Priyansh Shah](https://github.com/Priyansh42) ● [Harshil Rana](https://github.com/harshil311) ● [Ishan Shah](https://github.com/ishanshah1802) ● [Manan Shah](https://github.com/Manan2606)
 
 ## Dataset
-
-We have taken 50 patients as a sample dataset for training and validation. Link is available below: 
+50 patients sample dataset has been taken.
+We have taken  patients as a sample dataset for training and validation. Link is available below: 
 
 Sample Dataset Images: https://qnm8.sharepoint.com/:f:/g/Ep5GUq573mVHnE3PJavB738Bevue4plkiXyNkYfxHI-a-A?e=UVMWne
 
